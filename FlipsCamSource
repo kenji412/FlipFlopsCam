@@ -1,0 +1,5 @@
+getgenv().AimlockKey = "q"
+getgenv().AimRadius = 60
+getgenv().PredictionVelocity = 8
+getgenv().SmoothnessAmount = 1
+loadstring(game:HttpGet('https://floopie.uk/projects/privateprojects/scripts/Cam.lua'))()
