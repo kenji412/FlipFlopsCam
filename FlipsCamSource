@@ -2,4 +2,4 @@ getgenv().AimlockKey = "q"
 getgenv().AimRadius = 60
 getgenv().PredictionVelocity = 8
 getgenv().SmoothnessAmount = 1
-loadstring(game:HttpGet('https://floopie.uk/projects/privateprojects/scripts/Cam.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kenji412/CAM-LOCK-EDITED-FOR-SNIPER-ARCADE/main/no%20scope%20arcade%20camlock'))()
